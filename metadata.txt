@@ -13,7 +13,7 @@ email=wearemafaz@gmail.com
 about=Provide a brief description of the plugin and its purpose.
 
 tracker=https://github.com/wearemafaz/digitizer_plugin/issues
-repository=http://repo
+repository=https://github.com/wearemafaz/digitizer_plugin
 # End of mandatory metadata
 
 # Recommended items:
